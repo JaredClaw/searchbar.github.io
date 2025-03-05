@@ -1,1 +1,1 @@
-# searchbar.github.io
+# course.github.io

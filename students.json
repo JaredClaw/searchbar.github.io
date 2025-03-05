@@ -1,0 +1,13 @@
+{
+    "students": [
+    {
+    "name": "Songs","age": 20,"course": "Information Technology"
+    },
+    {
+    "name": "Chan","age": 22,"course": "Computer Science"
+    },
+    {
+    "name": "Chin","age": 19,"course": "Data Science"
+    }
+    ]
+   }
